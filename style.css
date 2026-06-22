@@ -40,16 +40,16 @@ body{
 }
 
 .hero-content h1{
-    font-size:25px;
+    font-size:10px;
     margin-top:10;
 }
 
 .hero-content p{
-    font-size:20px;
+    font-size:10px;
 }
 
 .hero-content span{
-    font-size:18px;
+    font-size:20px;
 }
 
 .back a{
